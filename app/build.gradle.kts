@@ -1,3 +1,4 @@
+
 plugins {
     alias(libs.plugins.android.application)
     alias(libs.plugins.google.gms.google.services)
@@ -8,6 +9,7 @@ android {
     compileSdk = 35
 
     defaultConfig {
+
         applicationId = "com.example.a8alashop"
         minSdk = 24
         targetSdk = 35
