@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "927879216041",
+    "project_id": "ala-shop-cfaf4",
+    "storage_bucket": "ala-shop-cfaf4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927879216041:android:9f18ced385ee1ef263e2b8",
+        "android_client_info": {
+          "package_name": "com.example.a8alashop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqwgZ0DBfHJM0m5ZcOt6TlA2DIu6N7gz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
