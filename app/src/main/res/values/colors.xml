@@ -7,6 +7,7 @@
     <color name="black4">#464646</color>
     <color name="yellow">#FFFFB800</color>
     <color name="grey">#807</color>
+  <color name="light_grey">#FF757575</color>
     <color name="dark_grey">#FF1E1E1E</color>
 
 </resources>
