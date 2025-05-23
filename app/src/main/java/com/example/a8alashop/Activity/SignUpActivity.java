@@ -111,6 +111,7 @@ public class SignUpActivity extends BaseActivity {
         HashMap<String, Object> userData = new HashMap<>();
         userData.put("username", username);
         userData.put("email", email);
+        userData.put("isAdmin", false);
         userData.put("createdAt", ServerValue.TIMESTAMP); // Timestamp serveur de création
 
         // Enregistre les données utilisateur dans la base de données Firebase Realtime Database

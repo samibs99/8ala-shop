@@ -159,8 +159,7 @@ public class MainActivity extends BaseActivity {
         // Crée un adaptateur pour le Spinner avec un layout personnalisé
         ArrayAdapter<LocationDomain> adapter = new ArrayAdapter<>(
           MainActivity.this,
-          R.layout.sp_item,
-          list
+          R.layout.sp_item,list
         );
         adapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
         // Associe l’adapter au Spinner dans le layout

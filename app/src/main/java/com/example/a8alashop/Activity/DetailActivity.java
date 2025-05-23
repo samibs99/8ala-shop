@@ -14,7 +14,6 @@ import androidx.core.view.WindowInsetsCompat;
 import androidx.recyclerview.widget.LinearLayoutManager; // Pour le layout de RecyclerView (non utilisé ici)
 
 import com.bumptech.glide.Glide; // Librairie pour charger des images depuis une URL ou un fichier
-import com.example.a8alashop.Adapter.SimilarAdapter; // (import non utilisé ici)
 import com.example.a8alashop.Domain.ItemDomain; // Classe représentant un produit/item
 import com.example.a8alashop.R; // Accès aux ressources
 import com.example.a8alashop.databinding.ActivityDetailBinding; // Liaison de vues avec ViewBinding
